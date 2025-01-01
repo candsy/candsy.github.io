@@ -11,6 +11,10 @@ layout: default
       {{ page.date | date: "%Y-%m-%d" }}
     </span>
 
+    <span class="author">
+      {{ page.author }}
+    </span>
+
     <ul class="tag">
       {% for tag in page.tags %}
       <li>
