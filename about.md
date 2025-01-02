@@ -11,7 +11,7 @@ permalink: /about/
 
 如果有什么建议可以邮箱告诉 candsy 这个磕nt的初中生哦！
 
-![墨家三宝！！！](https://github.com/candsy/candsy.github.io/blob/master/images/20210711122622_0a173.jpg)
+![墨家三宝！！！](https://github.com/candsy/candsy.github.io/raw/master/images/20210711122622_0a173.jpg)
 
 
 
