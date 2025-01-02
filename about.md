@@ -9,6 +9,9 @@ permalink: /about/
 
 初中生第一次做 blog 不喜勿喷啦！
 
-如果有什么建议可以邮箱告诉 candsy 这个初中生哦！
+如果有什么建议可以邮箱告诉 candsy 这个磕nt的初中生哦！
+
+![墨家三宝！！！](https://github.com/candsy/candsy.github.io/blob/master/images/20210711122622_0a173.jpg)
+
 
 
