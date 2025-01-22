@@ -7,7 +7,7 @@ order: 4
 # _Candsy_ 
 ###### 成分复杂且正在重启的蒟蒻
 
-### [$\color{darkblue}\colorbox{CAEBFB}{\large\boxed{\texttt{个人博客}}}$](https://candsy.github.io)[$\color{darkred}\colorbox{FBCAEB}{\large\boxed{\texttt{₯ OI}}}$](https://www.luogu.com.cn/team/98188)
+### [₯ OI](https://www.luogu.com.cn/team/98188)
 
 ## 何必相交？平行何尝不是一种关系呢？
 
@@ -40,7 +40,7 @@ order: 4
 ## $- End-$
 
 ### 快捷方式
-[$\large\color{green}\boxed{你该去的地方}$](https://www.luogu.com.cn/problem/list) [$\large\color{blue}\boxed{收起个人介绍}$](https://www.luogu.com.cn/user/762100#AFO) [$\large\color{black}\boxed{看看 Candsy的近期计划}$](https://www.luogu.com.cn/paste/kp8ocd0f) [$\large\color{pink}\boxed{看看 Candsy的犇犇}$](https://www.luogu.com.cn/user/762100#activity) [$\large\color{darkblue}\boxed{『XNYH』出题组}$](https://www.luogu.com.cn/team/88627) 
+[你该去的地方](https://www.luogu.com.cn/problem/list) [收起个人介绍](https://www.luogu.com.cn/user/762100#AFO) [看看 Candsy的近期计划](https://www.luogu.com.cn/paste/kp8ocd0f) [看看 Candsy的犇犇](https://www.luogu.com.cn/user/762100#activity) [『XNYH』出题组](https://www.luogu.com.cn/team/88627) 
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/24azirgu.png?x-oss-process=image/rounded-corners,r_30)
 
