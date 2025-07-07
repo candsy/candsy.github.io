@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://candsy.github.io/music/index.html</loc>
+    
+    <lastmod>2025-07-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://candsy.github.io/posts/4a17b156.html</loc>
     
     <lastmod>2025-06-16</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://candsy.github.io/posts/AyeHongBaiXi.html</loc>
     
     <lastmod>2025-06-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://candsy.github.io/music/index.html</loc>
-    
-    <lastmod>2025-06-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
